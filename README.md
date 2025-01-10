@@ -5,5 +5,6 @@
 ## Super Strona
 
 Super strona
-Ja student AGH :+1:
-I tyle
+
+# Ja student AGH 
+# I tyle
